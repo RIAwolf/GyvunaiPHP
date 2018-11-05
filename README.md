@@ -1,4 +1,4 @@
-# GyvunaiFX
+# GyvunaiPHP
 
 ## Užduotis
 Sukurti PHP programą. Programa automatiškai nuskaito Duombazę, suformuoja gyvūnus ir paklausia vartotojo kurį gyvūną parodyti. Kai vartotojas įveda pasirinkimą pateikiama visa gyvūno informacija bei iškviečiamas jo judėjimo veiksmas.
