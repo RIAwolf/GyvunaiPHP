@@ -6,6 +6,15 @@
  * Time: 11:40
  */
 
+// git branch --set-upstream-to origin/master
+// git stash
+// git pull --rebase
+// git stash pop
+
+
+
+
+
 class Animal
 {
     public $type;
